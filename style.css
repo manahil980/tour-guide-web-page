@@ -1,0 +1,34 @@
+#flex-container{
+    display: flex;
+    margin: 50px;50px;50px;50px;
+padding: 50px;50px;50px;50px;
+background-color: white;
+
+}
+ .box1,.box2,.box3{
+border-radius:20px; border-style: color;
+border: 20px; solid; yellowgreen;
+margin:  50px;50px;50px;50px;
+padding: 20px;20px;20px;20px;
+    height: 70%;
+    width:44.33%;
+    font color: white;}
+
+    .FORM{
+        height: 50%;
+        width: 50%;
+        font-size: 20px;
+        border: 10px;
+         border-top-style:COLOR;
+    }
+    
+.menu
+{display:flex;
+font-size: 30px;
+padding: 10px;30px; 30px; 30px;
+WIDTH: 100%;
+HEIGHT:20PX;}
+
+@mediacury:
+
+
